@@ -7,3 +7,16 @@
     width: 100%;
     background-color: #f8f9fa;
 }
+
+.todo-list ul li {
+    list-style: none;
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
